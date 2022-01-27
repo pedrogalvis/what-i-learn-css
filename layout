@@ -1,0 +1,13 @@
+<nav>
+        <h2>nav</h2>
+        <a href="#main-content">skip navigation</a>
+        <ul>
+          <li>nav item</li>
+          <li>nav item</li>
+          <li>nav item</li>
+          <li>nav item</li>
+        </ul>
+ </nav>
+<main id="main-content">
+        ...
+</main>
